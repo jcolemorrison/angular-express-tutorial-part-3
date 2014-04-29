@@ -1,3 +1,4 @@
+/* globals alert */
 'use strict';
 
 angular.module('clientApp') // make sure this is set to whatever it is in your client/scripts/app.js
